@@ -1,5 +1,6 @@
 <img width="787" height="114" alt="image" src="https://github.com/user-attachments/assets/ebcdcc8f-52de-40c5-ac06-9e27765ac342" />
 <img width="237" height="65" alt="image" src="https://github.com/user-attachments/assets/9de8792f-1ead-4d83-b15f-3bd31b9dc39e" />
+
 ```
 #include <iostream>
 #include <cmath>    // для log() і pow()
