@@ -36,6 +36,7 @@ int main() {
 }
 ```
 <img width="377" height="559" alt="image" src="https://github.com/user-attachments/assets/3fc70e5a-eda4-4d78-8dac-eda5c9f2619a" />
+<img width="1473" height="195" alt="image" src="https://github.com/user-attachments/assets/ea8a8f86-a729-4f30-b061-57261a03380b" />
 
 
 Програма обчислює суму
