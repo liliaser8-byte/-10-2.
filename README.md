@@ -38,7 +38,9 @@ int main() {
 }
 ```
 <img width="1461" height="211" alt="image" src="https://github.com/user-attachments/assets/6ab9193d-22f0-4bf6-b209-0c3bff31d366" />
+
 <img width="388" height="576" alt="image" src="https://github.com/user-attachments/assets/bcd3b2df-f68b-47c8-9377-2ca077cb79cc" />
+
 Програма обчислює суму
 <img width="159" height="59" alt="image" src="https://github.com/user-attachments/assets/a789e16b-0b0b-4a34-9bad-9f2a51477b51" />
 для введеного користувачем значення x>0. Вона послідовно проходить цикл від k=1 до 7, обчислює кожен доданок виразу та додає його до загальної суми. Після завершення обчислень програма виводить отриманий результат на екран.
