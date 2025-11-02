@@ -36,8 +36,10 @@ int main() {
 }
 ```
 <img width="377" height="559" alt="image" src="https://github.com/user-attachments/assets/3fc70e5a-eda4-4d78-8dac-eda5c9f2619a" />
+<img width="732" height="722" alt="image" src="https://github.com/user-attachments/assets/da890a7b-a626-4e28-b512-f2647b06deb6" />
+
 <img width="1473" height="195" alt="image" src="https://github.com/user-attachments/assets/ea8a8f86-a729-4f30-b061-57261a03380b" />
-<img width="732" height="722" alt="image" src="https://github.com/user-attachments/assets/aeac19b2-12e5-46e4-9fc5-71e3378fa787" />
+
 Програма обчислює суму
 <img width="159" height="59" alt="image" src="https://github.com/user-attachments/assets/a789e16b-0b0b-4a34-9bad-9f2a51477b51" />
 для введеного користувачем значення x>0. Вона послідовно проходить цикл від k=1 до 7, обчислює кожен доданок виразу та додає його до загальної суми. Після завершення обчислень програма виводить отриманий результат на екран.
